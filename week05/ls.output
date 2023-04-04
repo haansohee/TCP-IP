@@ -1,0 +1,2 @@
+ls: unrecognized option `----11111'
+usage: ls [-@ABCFGHILOPRSTUWabcdefghiklmnopqrstuvwxy1%,] [--color=when] [-D format] [file ...]
